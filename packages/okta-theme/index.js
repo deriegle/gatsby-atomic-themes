@@ -1,1 +1,1 @@
-export { default as AuthContext } from './src/components/auth-context'
+export { AuthContextConsumer, useAuthContext } from './src/components/auth-context'

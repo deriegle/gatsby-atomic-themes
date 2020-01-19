@@ -8,6 +8,7 @@
 		"@okta/okta-signin-widget": "^3.0.6",
 		"dotenv": "^8.0.0",
 		"gatsby": "^2.15.29",
+		"jest": "^24.9.0",
 		"prop-types": "^15.7.2",
 		"react": "^16.8.6",
 		"react-dom": "^16.8.6",
